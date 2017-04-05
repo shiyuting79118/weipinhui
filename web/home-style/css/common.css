@@ -6,3 +6,38 @@
 body {
     font-size: 12px;
 }
+
+/*  ------导航条部分------*/
+.bar{
+    width:100%;
+    height: 24px;
+    background-color: #F5F5F5;
+    color: #8E817E;
+
+}
+
+.bar-area{
+    width:100px;
+    position: absolute;
+    left: 200px;
+    line-height: 24px;
+}
+/*下拉区域选择块*/
+.area-info{
+    position: absolute;
+    top:25px;
+    left: 200px;
+    width:300px;
+    height:450px;
+    background-color: #fff;
+}
+
+.bar-login {
+    position: absolute;
+    left: 500px;
+    line-height: 24px;
+}
+.bar-login div{
+    float: left;
+    padding:0 10px 0 10px;
+}
