@@ -2,207 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ca47d30f-b1e6-4056-a2e5-95f0b1374335" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/font/FontAwesome.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/font/fontawesome-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/font/fontawesome-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/font/fontawesome-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/src/assets/font-awesome/font/FontAwesome.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/src/assets/font-awesome/font/fontawesome-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/src/assets/font-awesome/font/fontawesome-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/src/assets/font-awesome/font/fontawesome-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/src/assets/ico/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/src/assets/img/contribution-sample.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/src/assets/img/fort_awesome.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/src/assets/img/glyphicons-halflings-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/src/assets/img/glyphicons-halflings.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/src/assets/img/icon-flag.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/src/assets/js/ZeroClipboard-1.1.7.swf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/.ruby-version" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/CONTRIBUTING.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/Gemfile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/Gemfile.lock" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/_config.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/composer.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/css/font-awesome-ie7.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/css/font-awesome-ie7.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/font/fontawesome-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/less/bootstrap.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/less/extras.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/less/font-awesome-ie7.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/scss/_bootstrap.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/scss/_extras.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/scss/font-awesome-ie7.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/src/CNAME" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/src/Makefile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/src/_includes/ads/carbon-dark-vertical.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/src/_includes/ads/carbon-light-horizontal.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/src/_includes/ads/carbon-light-vertical.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/src/_includes/brand-license.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/src/_includes/cheatsheet.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/src/_includes/community.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/src/_includes/community/getting-support.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/src/_includes/community/project-milestones.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/src/_includes/community/reporting-bugs.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/src/_includes/community/requesting-new-icons.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/src/_includes/community/submitting-pull-requests.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/src/_includes/examples.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/src/_includes/examples/animated-spinner.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/src/_includes/examples/bordered-pulled.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/src/_includes/examples/bulleted-lists.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/src/_includes/examples/button-dropdowns.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/src/_includes/examples/button-groups.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/src/_includes/examples/buttons.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/src/_includes/examples/custom.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/src/_includes/examples/form-inputs.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/src/_includes/examples/inline-icons.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/src/_includes/examples/larger-icons.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/src/_includes/examples/navigation.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/src/_includes/examples/new.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/src/_includes/examples/rotated-flipped.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/src/_includes/examples/stacked.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/src/_includes/footer.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/src/_includes/get-started.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/src/_includes/icons.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/src/_includes/icons/brand.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/src/_includes/icons/currency.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/src/_includes/icons/directional.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/src/_includes/icons/medical.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/src/_includes/icons/new.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/src/_includes/icons/text-editor.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/src/_includes/icons/video-player.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/src/_includes/icons/web-application.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/src/_includes/jumbotron-slider.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/src/_includes/jumbotron.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/src/_includes/license-code.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/src/_includes/license.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/src/_includes/navbar.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/src/_includes/stripe-ad.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/src/_includes/stripe-social.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/src/_includes/tell-me-thanks.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/src/_includes/tests/rotated-flipped-inside-anchor.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/src/_includes/tests/rotated-flipped-inside-btn.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/src/_includes/tests/rotated-flipped.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/src/_includes/tests/stacked-inside-anchor.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/src/_includes/tests/stacked.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/src/_includes/thanks-to.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/src/_includes/whats-new.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/src/_includes/why.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/src/_layouts/base.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/src/_layouts/icon.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/src/_plugins/icon_page_generator.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/src/_plugins/site.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/src/assets/css/prettify.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/src/assets/css/pygments.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/src/assets/font-awesome/font/fontawesome-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/src/assets/font-awesome/less/bootstrap.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/src/assets/font-awesome/less/core.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/src/assets/font-awesome/less/extras.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/src/assets/font-awesome/less/font-awesome-ie7.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/src/assets/font-awesome/less/font-awesome.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/src/assets/font-awesome/less/icons.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/src/assets/font-awesome/less/mixins.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/src/assets/font-awesome/less/path.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/src/assets/font-awesome/less/variables.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/src/assets/font-awesome/scss/_bootstrap.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/src/assets/font-awesome/scss/_core.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/src/assets/font-awesome/scss/_extras.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/src/assets/font-awesome/scss/_icons.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/src/assets/font-awesome/scss/_mixins.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/src/assets/font-awesome/scss/_path.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/src/assets/font-awesome/scss/_variables.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/src/assets/font-awesome/scss/font-awesome-ie7.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/src/assets/font-awesome/scss/font-awesome.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/src/assets/js/ZeroClipboard-1.1.7.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/src/assets/js/backbone.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/src/assets/js/bootstrap-2.3.1.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/src/assets/js/bootstrap-222.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/src/assets/js/jquery-1.7.1.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/src/assets/js/prettify.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/src/assets/js/site.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/src/assets/js/underscore.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/src/assets/less/bootstrap-2.3.2/accordion.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/src/assets/less/bootstrap-2.3.2/alerts.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/src/assets/less/bootstrap-2.3.2/bootstrap.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/src/assets/less/bootstrap-2.3.2/breadcrumbs.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/src/assets/less/bootstrap-2.3.2/button-groups.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/src/assets/less/bootstrap-2.3.2/buttons.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/src/assets/less/bootstrap-2.3.2/carousel.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/src/assets/less/bootstrap-2.3.2/close.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/src/assets/less/bootstrap-2.3.2/code.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/src/assets/less/bootstrap-2.3.2/component-animations.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/src/assets/less/bootstrap-2.3.2/dropdowns.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/src/assets/less/bootstrap-2.3.2/forms.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/src/assets/less/bootstrap-2.3.2/grid.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/src/assets/less/bootstrap-2.3.2/hero-unit.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/src/assets/less/bootstrap-2.3.2/labels-badges.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/src/assets/less/bootstrap-2.3.2/layouts.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/src/assets/less/bootstrap-2.3.2/media.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/src/assets/less/bootstrap-2.3.2/mixins.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/src/assets/less/bootstrap-2.3.2/modals.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/src/assets/less/bootstrap-2.3.2/navbar.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/src/assets/less/bootstrap-2.3.2/navs.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/src/assets/less/bootstrap-2.3.2/pager.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/src/assets/less/bootstrap-2.3.2/pagination.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/src/assets/less/bootstrap-2.3.2/popovers.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/src/assets/less/bootstrap-2.3.2/progress-bars.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/src/assets/less/bootstrap-2.3.2/reset.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/src/assets/less/bootstrap-2.3.2/responsive-1200px-min.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/src/assets/less/bootstrap-2.3.2/responsive-767px-max.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/src/assets/less/bootstrap-2.3.2/responsive-768px-979px.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/src/assets/less/bootstrap-2.3.2/responsive-navbar.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/src/assets/less/bootstrap-2.3.2/responsive-utilities.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/src/assets/less/bootstrap-2.3.2/responsive.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/src/assets/less/bootstrap-2.3.2/scaffolding.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/src/assets/less/bootstrap-2.3.2/sprites.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/src/assets/less/bootstrap-2.3.2/tables.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/src/assets/less/bootstrap-2.3.2/thumbnails.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/src/assets/less/bootstrap-2.3.2/tooltip.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/src/assets/less/bootstrap-2.3.2/type.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/src/assets/less/bootstrap-2.3.2/utilities.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/src/assets/less/bootstrap-2.3.2/variables.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/src/assets/less/bootstrap-2.3.2/wells.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/src/assets/less/lazy.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/src/assets/less/mixins.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/src/assets/less/responsive-1200px-min.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/src/assets/less/responsive-767px-max.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/src/assets/less/responsive-768px-979px.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/src/assets/less/responsive-navbar.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/src/assets/less/responsive.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/src/assets/less/site.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/src/assets/less/sticky-footer.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/src/assets/less/variables.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/src/cheatsheet.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/src/community.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/src/design.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/src/examples.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/src/get-started.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/src/icons.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/src/icons.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/src/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/src/license.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/src/test.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/common/font-awesome/src/whats-new.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/home-style/js/common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/models/Common.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/home/controllers/DefaultController.php" afterPath="$PROJECT_DIR$/modules/home/controllers/DefaultController.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/home/views/layouts/main.php" afterPath="$PROJECT_DIR$/modules/home/views/layouts/main.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/common/font-awesome/css/font-awesome.css" afterPath="$PROJECT_DIR$/web/common/font-awesome/css/font-awesome.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/common/font-awesome/css/font-awesome.min.css" afterPath="$PROJECT_DIR$/web/common/font-awesome/css/font-awesome.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/common/font-awesome/less/core.less" afterPath="$PROJECT_DIR$/web/common/font-awesome/less/core.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/common/font-awesome/less/font-awesome.less" afterPath="$PROJECT_DIR$/web/common/font-awesome/less/font-awesome.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/common/font-awesome/less/icons.less" afterPath="$PROJECT_DIR$/web/common/font-awesome/less/icons.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/common/font-awesome/less/mixins.less" afterPath="$PROJECT_DIR$/web/common/font-awesome/less/mixins.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/common/font-awesome/less/path.less" afterPath="$PROJECT_DIR$/web/common/font-awesome/less/path.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/common/font-awesome/less/variables.less" afterPath="$PROJECT_DIR$/web/common/font-awesome/less/variables.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/common/font-awesome/scss/_core.scss" afterPath="$PROJECT_DIR$/web/common/font-awesome/scss/_core.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/common/font-awesome/scss/_icons.scss" afterPath="$PROJECT_DIR$/web/common/font-awesome/scss/_icons.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/common/font-awesome/scss/_mixins.scss" afterPath="$PROJECT_DIR$/web/common/font-awesome/scss/_mixins.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/common/font-awesome/scss/_path.scss" afterPath="$PROJECT_DIR$/web/common/font-awesome/scss/_path.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/common/font-awesome/scss/_variables.scss" afterPath="$PROJECT_DIR$/web/common/font-awesome/scss/_variables.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/common/font-awesome/scss/font-awesome.scss" afterPath="$PROJECT_DIR$/web/common/font-awesome/scss/font-awesome.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/home-style/css/common.css" afterPath="$PROJECT_DIR$/web/home-style/css/common.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/home-style/js/common.js" afterPath="$PROJECT_DIR$/web/home-style/js/common.js" />
     </list>
     <ignored path="weipinhui.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -226,8 +31,8 @@
       <file leaf-file-name="main.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/modules/home/views/layouts/main.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="325">
-              <caret line="31" column="37" selection-start-line="31" selection-start-column="37" selection-end-line="31" selection-end-column="37" />
+            <state relative-caret-position="20">
+              <caret line="128" column="20" selection-start-line="128" selection-start-column="20" selection-end-line="128" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -236,8 +41,8 @@
       <file leaf-file-name="common.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/home-style/js/common.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="17" column="7" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+            <state relative-caret-position="421">
+              <caret line="33" column="71" selection-start-line="33" selection-start-column="71" selection-end-line="33" selection-end-column="71" />
               <folding />
             </state>
           </provider>
@@ -246,8 +51,8 @@
       <file leaf-file-name="common.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/home-style/css/common.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="695">
-              <caret line="70" column="21" selection-start-line="70" selection-start-column="21" selection-end-line="70" selection-end-column="21" />
+            <state relative-caret-position="622">
+              <caret line="88" column="22" selection-start-line="88" selection-start-column="22" selection-end-line="88" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -256,7 +61,7 @@
       <file leaf-file-name="web.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config/web.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="948">
+            <state relative-caret-position="1150">
               <caret line="46" column="10" selection-start-line="46" selection-start-column="10" selection-end-line="46" selection-end-column="10" />
               <folding />
             </state>
@@ -266,8 +71,54 @@
       <file leaf-file-name="DefaultController.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/modules/home/controllers/DefaultController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="400">
-              <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+            <state relative-caret-position="275">
+              <caret line="32" column="31" selection-start-line="32" selection-start-column="23" selection-end-line="32" selection-end-column="31" />
+              <folding>
+                <element signature="e#48#70#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/modules/home/views/default/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="25">
+              <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Common.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/models/Common.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+              <folding>
+                <element signature="e#30#38#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ContactForm.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/models/ContactForm.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1253">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
+              <folding>
+                <element signature="e#30#38#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Controller.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vendor/yiisoft/yii2/base/Controller.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="865">
+              <caret line="64" column="16" selection-start-line="64" selection-start-column="16" selection-end-line="64" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -296,9 +147,11 @@
         <option value="$PROJECT_DIR$/modules/home/views/default/index.php" />
         <option value="$PROJECT_DIR$/config/web.php" />
         <option value="$PROJECT_DIR$/web/.htaccess" />
+        <option value="$PROJECT_DIR$/models/common/Common.php" />
+        <option value="$PROJECT_DIR$/vendor/yiisoft/yii2-debug/models/search/Log.php" />
         <option value="$PROJECT_DIR$/modules/home/controllers/DefaultController.php" />
-        <option value="$PROJECT_DIR$/web/home-style/css/common.css" />
         <option value="$PROJECT_DIR$/web/home-style/js/common.js" />
+        <option value="$PROJECT_DIR$/web/home-style/css/common.css" />
         <option value="$PROJECT_DIR$/modules/home/views/layouts/main.php" />
       </list>
     </option>
@@ -309,8 +162,11 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
+  <component name="PhpDebugGeneral" notify_if_session_was_finished_without_being_paused="false" />
   <component name="PhpServers">
-    <servers />
+    <servers>
+      <server host="localhost" id="29f8fcbb-667d-4557-949c-bb04f28a57c8" name="home" port="8080" />
+    </servers>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
@@ -360,9 +216,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope">
-        <subPane subId="Project Files" />
-      </pane>
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -391,7 +244,11 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="web" />
+              <option name="myItemId" value="modules" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="home" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -405,37 +262,19 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="web" />
+              <option name="myItemId" value="modules" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="home-style" />
+              <option name="myItemId" value="home" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="weipinhui" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="weipinhui" />
+              <option name="myItemId" value="views" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="web" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="home-style" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
+              <option name="myItemId" value="layouts" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -449,33 +288,19 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="web" />
+              <option name="myItemId" value="modules" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="common" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="weipinhui" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="weipinhui" />
+              <option name="myItemId" value="home" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="web" />
+              <option name="myItemId" value="views" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="common" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="font-awesome" />
+              <option name="myItemId" value="default" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -489,19 +314,7 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="web" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="common" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="font-awesome" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
+              <option name="myItemId" value="modules" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -515,33 +328,14 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="web" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="common" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bootstrap" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="weipinhui" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="weipinhui" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="config" />
+              <option name="myItemId" value="models" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Project Files" />
       </pane>
       <pane id="Scratches" />
     </panes>
@@ -550,10 +344,17 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\xampp\htdocs\weipinhui\models" />
+      <recent name="D:\phpStudy\WWW\weipinhui\web\common" />
+      <recent name="D:\xampp\htdocs\weipinhui\web\home\css" />
+      <recent name="D:\xampp\htdocs\weipinhui\web" />
+      <recent name="D:\xampp\htdocs\weipinhui\web\css" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\xampp\htdocs\weipinhui\web\common" />
       <recent name="D:\phpStudy\WWW\weipinhui\web\common" />
@@ -561,14 +362,8 @@
       <recent name="D:\xampp\htdocs\weipinhui\modules\home\views" />
       <recent name="D:\xampp\htdocs\weipinhui\modules\admin\views\layouts" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\phpStudy\WWW\weipinhui\web\common" />
-      <recent name="D:\xampp\htdocs\weipinhui\web\home\css" />
-      <recent name="D:\xampp\htdocs\weipinhui\web" />
-      <recent name="D:\xampp\htdocs\weipinhui\web\css" />
-    </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="PHP Web Application.home">
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
       <method />
     </configuration>
@@ -584,6 +379,9 @@
       <method />
     </configuration>
     <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application">
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
@@ -615,6 +413,12 @@
       <recursive>false</recursive>
       <method />
     </configuration>
+    <configuration default="false" name="home" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application" singleton="true" browser="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" server_name="home" start_url="/weipinhui/web/home">
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="PHP Web Application.home" />
+    </list>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -636,33 +440,34 @@
       <workItem from="1491132374191" duration="3603000" />
       <workItem from="1491184077641" duration="9324000" />
       <workItem from="1491359705123" duration="24908000" />
+      <workItem from="1491442145651" duration="28528000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="71461000" />
+    <option name="totallyTimeSpent" value="99989000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25159913" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25426438" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39978564" sideWeight="0.5021322" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39978564" sideWeight="0.4978678" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -677,7 +482,9 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="6" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
@@ -701,7 +508,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="400">
           <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#48#70#0#PHP" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -725,7 +534,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
           <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#48#70#0#PHP" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -741,7 +552,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
           <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#48#70#0#PHP" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -765,7 +578,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
           <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#48#70#0#PHP" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -901,13 +716,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/modules/home/views/default/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" column="9" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.bowerrc">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -951,42 +759,98 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/models/ContactForm.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1253">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
+          <folding>
+            <element signature="e#30#38#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/Common.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+          <folding>
+            <element signature="e#30#38#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/yiisoft/yii2-debug/models/search/Log.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1103">
+          <caret line="32" column="15" selection-start-line="32" selection-start-column="15" selection-end-line="32" selection-end-column="15" />
+          <folding>
+            <element signature="e#188#219#0#PHP" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/config/web.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="948">
+        <state relative-caret-position="1150">
           <caret line="46" column="10" selection-start-line="46" selection-start-column="10" selection-end-line="46" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/home/views/default/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/yiisoft/yii2/web/Controller.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="37" column="27" selection-start-line="37" selection-start-column="26" selection-end-line="37" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/yiisoft/yii2/base/Controller.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="865">
+          <caret line="64" column="16" selection-start-line="64" selection-start-column="16" selection-end-line="64" selection-end-column="16" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/modules/home/controllers/DefaultController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="275">
+          <caret line="32" column="31" selection-start-line="32" selection-start-column="23" selection-end-line="32" selection-end-column="31" />
+          <folding>
+            <element signature="e#48#70#0#PHP" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/web/home-style/css/common.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="695">
-          <caret line="70" column="21" selection-start-line="70" selection-start-column="21" selection-end-line="70" selection-end-column="21" />
+        <state relative-caret-position="622">
+          <caret line="88" column="22" selection-start-line="88" selection-start-column="22" selection-end-line="88" selection-end-column="22" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/web/home-style/js/common.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="17" column="7" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+        <state relative-caret-position="421">
+          <caret line="33" column="71" selection-start-line="33" selection-start-column="71" selection-end-line="33" selection-end-column="71" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/modules/home/views/layouts/main.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="31" column="37" selection-start-line="31" selection-start-column="37" selection-end-line="31" selection-end-column="37" />
+        <state relative-caret-position="20">
+          <caret line="128" column="20" selection-start-line="128" selection-start-column="20" selection-end-line="128" selection-end-column="20" />
           <folding />
         </state>
       </provider>

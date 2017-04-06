@@ -1,3 +1,10 @@
+<?php
+
+
+/*@var \yii\web\View $this */
+
+?>
+<!DOCTYPE html>
 <!DOCTYPE html>
 <html lang="zh-cn">
 <head>
@@ -17,7 +24,8 @@
 <body>
 
 <div class="bar">
-    <div class="bar-area">区域
+    <div class="bar-area">
+        <span><?= yii\helpers\Html::encode($this->params['province']) ?></span>
         <div><i class="icon-sort-down icon-large"></i></div>
     </div>
     <div class="area-info">
@@ -29,82 +37,151 @@
             <table>
                 <tr>
                     <td>A</td>
-                    <td><a href="">安徽</a></td>
-                    <td>澳门</td>
+                    <td>
+                        <div><a href="">安徽</a></div>
+                    </td>
+                    <td>
+                        <div><a href="">澳门</a></div>
+                    </td>
                 </tr>
                 <tr>
                     <td>B</td>
-                    <td>北京</td>
+                    <td>
+                        <div><a href="">北京</a></div>
+                    </td>
                 </tr>
                 <tr>
                     <td>C</td>
-                    <td>重庆</td>
+
+                    <td>
+                        <div><a href="">重庆</a></div>
+                    </td>
                 </tr>
                 <tr>
                     <td>F</td>
-                    <td>福建</td>
+                    <td>
+                        <div><a href="">福建</a></div>
+                    </td>
                 </tr>
                 <tr>
                     <td>G</td>
-                    <td>广东</td>
-                    <td>广西</td>
-                    <td>贵州</td>
-                    <td>甘肃</td>
+                    <td>
+                        <div><a href="">广东</a></div>
+                    </td>
+                    <td>
+                        <div><a href="">广西</a></div>
+                    </td>
+                    <td>
+                        <div><a href="">贵州</a></div>
+                    </td>
+                    <td>
+                        <div><a href="">甘肃</a></div>
+                    </td>
                 </tr>
                 <tr>
                     <td>H</td>
-                    <td><span>河北</span></td>
-                    <td><span>河南</span></td>
-                    <td><span>黑龙江</span></td>
-                    <td><span>海南</span></td>
-                    <td><span>湖北</span></td>
-                    <td><span>湖南</span></td>
+                    <td>
+                        <div><a href="">河北</a></div>
+                    </td>
+                    <td>
+                        <div><a href="">河南</a></div>
+                    </td>
+                    <td>
+                        <div><a href="">黑龙江</a></div>
+                    </td>
+                    <td>
+                        <div><a href="">海南</a></div>
+                    </td>
+                    <td>
+                        <div><a href="">湖北</a></div>
+                    </td>
+                    <td>
+                        <div><a href="">湖南</a></div>
+                    </td>
                 </tr>
                 <tr>
                     <td>J</td>
-                    <td>江苏</td>
-                    <td>吉林</td>
-                    <td>江西</td>
+                    <td>
+                        <div><a href="">江苏</a></div>
+                    </td>
+                    <td>
+                        <div><a href="">吉林</a></div>
+                    </td>
+                    <td>
+                        <div><a href="">江西</a></div>
+                    </td>
                 </tr>
                 <tr>
                     <td>L</td>
-                    <td>辽宁</td>
+                    <td>
+                        <div><a href="">辽宁</a></div>
+                    </td>
                 </tr>
                 <tr>
                     <td>N</td>
-                    <td>内蒙古</td>
-                    <td>宁夏</td>
+                    <td>
+                        <div><a href="">内蒙古</a></div>
+                    </td>
+                    <td>
+                        <div><a href="">宁夏</a></div>
+                    </td>
                 </tr>
                 <tr>
                     <td>Q</td>
-                    <td>青海</td>
+                    <td>
+                        <div><a href="">青海</a></div>
+                    </td>
                 </tr>
                 <tr>
                     <td>S</td>
-                    <td>上海</td>
-                    <td>山东</td>
-                    <td>山西</td>
-                    <td>四川</td>
-                    <td>陕西</td>
+                    <td>
+                        <div><a href="">上海</a></div>
+                    </td>
+                    <td>
+                        <div><a href="">山东</a></div>
+                    </td>
+                    <td>
+                        <div><a href="">山西</a></div>
+                    </td>
+                    <td>
+                        <div><a href="">四川</a></div>
+                    </td>
+                    <td>
+                        <div><a href="">陕西</a></div>
+                    </td>
                 </tr>
                 <tr>
                     <td>T</td>
-                    <td>台湾</td>
-                    <td>天津</td>
+                    <td>
+                        <div><a href="">台湾</a></div>
+                    </td>
+                    <td>
+                        <div><a href="">天津</a></div>
+                    </td>
                 </tr>
                 <tr>
                     <td>X</td>
-                    <td>西藏</td>
-                    <td>香港</td>
-                    <td>新疆</td>
+                    <td>
+                        <div><a href="">西藏</a></div>
+                    </td>
+                    <td>
+                        <div><a href="">香港</a></div>
+                    </td>
+                    <td>
+                        <div><a href="">新疆</a></div>
+                    </td>
                 </tr>
                 <tr>
                     <td>Y</td>
-                    <td>云南</td>
+                    <td>
+                        <div><a href="">云南</a></div>
+                    </td>
                 </tr>
                 <tr>
                     <td>Z</td>
-                    <td>浙江</td>
+                    <td>
+                        <div><a href="">浙江</a></div>
+                    </td>
                 </tr>
             </table>
         </div>
@@ -126,5 +203,7 @@
 <?= $content ?>
 </body>
 </html>
+
+
 <script src="<?= \yii\helpers\Url::base() ?>/home-style/js/common.js"></script>
 
