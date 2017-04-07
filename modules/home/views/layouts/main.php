@@ -187,17 +187,74 @@
         </div>
     </div>
     <div class="bar-login">
-        <div class="bar-item">请登录</div>
-        <div>/</div>
-        <div class="bar-item">注册</div>
-        <div>/</div>
-        <div class="bar-item">我的订单</div>
-        <div>/</div>
-        <div class="bar-item">我的特卖</div>
-        <div>/</div>
-        <div class="bar-item">会员俱乐部</div>
-        <div>/</div>
-        <div class="bar-item">客户服务</div>
+        <div class="bar-item login">
+            <div><a href="">请登录</a></div>
+            <div>/</div>
+        </div>
+
+        <div class="login-area">
+            <div class="login-line"></div>
+            <div class="head">
+                <div>
+                    <img src="<?= \yii\helpers\Url::base() ?>/home-style/images/head.png" width="40px" alt="">
+                </div>
+                <div>
+                    <a href="">您好 ! [请登录]</a>
+                </div>
+            </div>
+            <div class="head-content">
+                <table>
+                    <tr>
+                        <td>
+                            <div><a href="">我的收藏</a></div>
+                        </td>
+                        <td>
+                            <div><a href="">我的订单</a></div>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <div><a href="">零钱</a></div>
+                        </td>
+                        <td>
+                            <div><a href="">我的优惠券</a></div>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <div><a href="">我的唯品币</a></div>
+                        </td>
+                        <td>
+                            <div><a href="">唯品金融</a></div>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+        <div class="bar-item">
+            <div>注册</div>
+            <div>/</div>
+        </div>
+
+        <div class="bar-item">
+            <div>我的订单</div>
+            <div>/</div>
+        </div>
+
+        <div class="bar-item">
+            <div>我的特卖</div>
+            <div>/</div>
+        </div>
+
+        <div class="bar-item">
+            <div>会员俱乐部</div>
+            <div>/</div>
+        </div>
+
+        <div class="bar-item">
+            <div>客户服务</div>
+            <div>/</div>
+        </div>
     </div>
 </div>
 <?= $content ?>
