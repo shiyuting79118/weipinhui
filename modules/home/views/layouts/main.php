@@ -199,7 +199,7 @@
                     <img src="<?= \yii\helpers\Url::base() ?>/home-style/images/head.png" width="40px" alt="">
                 </div>
                 <div>
-                    <a href="">您好 ! [请登录]</a>
+                    <a href="<?= yii\helpers\Url::toRoute('user/login')?>">您好 ! [请登录]</a>
                 </div>
             </div>
             <div class="head-content">

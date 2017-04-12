@@ -3,7 +3,6 @@
 namespace app\modules\home\controllers;
 
 use app\models\Common;
-use yii\web\Controller;
 
 /*
 *@author shiyuting(shiyuting.79118@163.com)
@@ -11,16 +10,10 @@ use yii\web\Controller;
 *date:2017-4-1
 */
 
-class DefaultController extends Controller
+class DefaultController extends HomeController
 {
 
     public $layout = 'main';
-    public $districtModel;
-
-    function init()
-    {
-        $this->districtModel = new Common();
-    }
 
     public function actionIndex()
     {
@@ -97,6 +90,8 @@ class DefaultController extends Controller
         $realip = preg_match("/[\d\.]{7,15}/", $realip, $matches) ? $matches[0] : $unknown;
         return $realip;
     }
+
+
 
 
 }

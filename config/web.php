@@ -55,6 +55,12 @@ $config = [
         'home' => [
             'class' => 'app\modules\home\Module',
         ],
+        //用户登录公共模块
+        'api' => [
+
+            'class' => 'app\modules\api\Model',
+
+        ],
     ],
     'params' => $params,
 ];
