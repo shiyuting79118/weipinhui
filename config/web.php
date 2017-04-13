@@ -9,7 +9,7 @@ $config = [
     'components' => [
         'request' => [
             // !!! insert a secret key in the following (if it is empty) - this is required by cookie validation
-            'cookieValidationKey' => 'qweqwewqeqweqweqweqrfdfsdf',
+            'cookieValidationKey' => 'asfo30faskfu290rafjasoi8',
         ],
         'cache' => [
             'class' => 'yii\caching\FileCache',
@@ -38,14 +38,29 @@ $config = [
             ],
         ],
         'db' => require(__DIR__ . '/db.php'),
-        /*
+
         'urlManager' => [
             'enablePrettyUrl' => true,
             'showScriptName' => false,
             'rules' => [
             ],
         ],
-        */
+    ],
+    'modules' => [
+        //后台
+        'admin' => [
+            'class' => 'app\modules\admin\Module',
+        ],
+        //前台页面
+        'home' => [
+            'class' => 'app\modules\home\Module',
+        ],
+        //用户登录公共模块
+        'api' => [
+
+            'class' => 'app\modules\api\Model',
+
+        ],
     ],
     'params' => $params,
 ];
