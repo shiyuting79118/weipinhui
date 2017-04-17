@@ -4,3 +4,9 @@ http://47.90.59.219:85 这个是phpmyadmin地址
 47.90.59.219
 weipinhui
 weipinhuimysql
+
+前台
+http://localhost/weipinhui/web/home
+
+后台 
+http://localhost/weipinhui/web/home
