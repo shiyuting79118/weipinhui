@@ -11,8 +11,14 @@
     <div>
         <button type="button" class="btn btn-default login-btn">登录</button>
     </div>
-    <div>
-        <input type="checkbox" checked id="aaaa">记住用户名
-        <div>忘记密码｜免费注册</div>
+
+    <div class="login-checked">
+        <div>
+            <input type="checkbox" checked="checked">
+        </div>
+        <div>
+            <a href="">忘记密码?</a>｜
+            <a href="">免费注册</a>
+        </div>
     </div>
 </div>
