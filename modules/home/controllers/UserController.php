@@ -16,4 +16,10 @@ class UserController extends HomeController
     {
         return $this->render('login');
     }
+
+    public function actionRegister()
+    {
+        return $this->render('register');
+
+    }
 }

@@ -14,6 +14,8 @@ use yii\web\Controller;
 class HomeController extends Controller
 {
     public $layout = 'main-login';
+
+    /*判断用户是否登录*/
     protected function actionIsLogin()
     {
 

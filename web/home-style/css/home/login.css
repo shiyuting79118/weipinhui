@@ -90,11 +90,22 @@ body a:active {
 }
 
 .login-checked div:nth-child(1) input {
+    line-height: 30;
     width: 18px;
     height: 18px;
 }
+.remember_password{
+   position: relative;
+    top: -2px;
+    left:-45px;
+}
 .login-checked div:nth-child(2) a:nth-child(2){
     color:  #F10180;
+}
+
+.footer{
+    width: 500px;
+    margin: 100px auto 0;
 }
 
 

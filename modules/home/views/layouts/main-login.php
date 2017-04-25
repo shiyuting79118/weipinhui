@@ -31,5 +31,9 @@
         <?= $content ?>
     </div>
 </div>
+<div style="clear: both"></div>
+<div class="footer">
+    Copyright 2008-2017 vip.com，All Rights Reserved ICP证：粤 B2-20080329
+</div>
 </body>
 </html>

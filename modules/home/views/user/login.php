@@ -14,11 +14,13 @@
 
     <div class="login-checked">
         <div>
-            <input type="checkbox" checked="checked">
+            <div><input type="checkbox" checked="checked"></div>
+            <div class="remember_password">记住密码</div>
+
         </div>
         <div>
             <a href="">忘记密码?</a>｜
-            <a href="">免费注册</a>
+            <a href="<?= yii\helpers\Url::toRoute('user/register')?>">免费注册</a>
         </div>
     </div>
 </div>
