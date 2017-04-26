@@ -9,9 +9,12 @@ namespace app\modules\home\controllers;
 *date:2017-4-10
 */
 
-class UserController extends HomeController
+use yii\web\Controller;
+
+class UserController extends Controller
 {
     /*登录*/
+    public $layout = 'main-login';
     public function actionLogin()
     {
         return $this->render('login');

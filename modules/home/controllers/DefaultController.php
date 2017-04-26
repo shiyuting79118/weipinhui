@@ -3,6 +3,7 @@
 namespace app\modules\home\controllers;
 
 use app\models\Common;
+use yii\web\Controller;
 
 /*
 *@author shiyuting(shiyuting.79118@163.com)
@@ -10,7 +11,7 @@ use app\models\Common;
 *date:2017-4-1
 */
 
-class DefaultController extends HomeController
+class DefaultController extends Controller
 {
 
     public $layout = 'main';

@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+body {
+    font-size: 12px;
+    background-color: #FDFBFE;
+}
+body a {
+    color: #6b5f5c;
+    text-decoration: none
+}
+
+body a:hover {
+    text-decoration: none;
+    color: #F10180;
+}
+
+body a:active {
+    color: #F10180;
+    text-decoration: none;
+}

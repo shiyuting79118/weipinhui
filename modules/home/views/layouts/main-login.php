@@ -13,6 +13,7 @@
     <link href="<?= \yii\helpers\Url::base() ?>/common/bootstrap/css/bootstrap.min.css" rel="stylesheet">
     <link href="<?= \yii\helpers\Url::base() ?>/common/font-awesome/css/font-awesome.min.css" rel="stylesheet">
     <link rel="stylesheet" href="<?= \yii\helpers\Url::base() ?>/home-style/css/home/login.css"/>
+    <link rel="stylesheet" href="<?= \yii\helpers\Url::base() ?>/home-style/css/home/register.css"/>
     <script src="<?= \yii\helpers\Url::base() ?>/common/js/jquery.min.js"></script>
 </head>
 <body>

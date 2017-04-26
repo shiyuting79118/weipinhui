@@ -16,11 +16,9 @@ class RegisterForm extends Model
     {
         return [
             // username and password are both required
-            [['username', 'password'], 'required'],
-            // rememberMe must be a boolean value
-            ['rememberMe', 'boolean'],
+            [['username', 'password', 'repassword'], 'required'],
             // password is validated by validatePassword()
-            ['password', 'validatePassword'],
+            ['password', 'repassword', 'validatePassword']
         ];
     }
 
