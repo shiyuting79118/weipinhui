@@ -11,10 +11,21 @@
     <meta name="keywords" content="">
     <meta name="description" content="">
     <link href="<?= \yii\helpers\Url::base() ?>/common/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
     <link href="<?= \yii\helpers\Url::base() ?>/common/font-awesome/css/font-awesome.min.css" rel="stylesheet">
-    <link rel="stylesheet" href="<?= \yii\helpers\Url::base() ?>/home-style/css/home/login.css"/>
-    <link rel="stylesheet" href="<?= \yii\helpers\Url::base() ?>/home-style/css/home/register.css"/>
+
     <script src="<?= \yii\helpers\Url::base() ?>/common/js/jquery.min.js"></script>
+
+    <script src="<?= \yii\helpers\Url::base() ?>/common/js/vue.js"></script>
+
+    <link href="<?= \yii\helpers\Url::base() ?>/common/art-dialog/css/ui-dialog.css" rel="stylesheet"/>
+    <script src="<?= \yii\helpers\Url::base() ?>/common/art-dialog/dist/dialog-min.js"></script>
+
+    <link href="<?= \yii\helpers\Url::base() ?>/common/pfinal/css/pfinal.css" rel="stylesheet"/>
+    <script src="<?= \yii\helpers\Url::base() ?>/common/pfinal/pfinal.js"></script>
+
+    <link rel="stylesheet" href="<?= \yii\helpers\Url::base() ?>/home-style/css/home/login.css"/>
+
 </head>
 <body>
 <div class="bar">
