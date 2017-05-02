@@ -232,7 +232,7 @@
             </div>
         </div>
         <div class="bar-item">
-            <div>注册</div>
+            <div><a href="<?= yii\helpers\Url::toRoute('user/register')?>">注册</a></div>
             <div>/</div>
         </div>
 

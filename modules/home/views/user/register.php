@@ -3,19 +3,18 @@
     </div>
     <div>
         <input type="text" name="username" id="js-phone" onblur="checkPhone()" placeholder="请输入手机号码">
-        <label for="" id="phone-tip">请输入正确的手机号码</label>
+<!--        <label for="" id="phone-tip">请输入正确的手机号码</label>-->
     </div>
 
     <div>
-        <input type="password" name="password" placeholder="密码由6-20位字母，数字和符号组合">
+        <input type="password" name="password" id="js-password" placeholder="密码由6-20位字母，数字和符号组合">
     </div>
 
     <div>
-        <input type="password" name="repassword" placeholder="密码由6-20位字母，数字和符号组合">
+        <input type="password" name="repassword" id="js-repassword" placeholder="密码由6-20位字母，数字和符号组合">
     </div>
-
     <div class="message">
-        <input type="text" name="message" placeholder="短信验证码">
+        <input type="text" name="message" id="js-message" placeholder="短信验证码">
         <button type="button" class="btn btn-default message-btn">获取取证码</button>
     </div>
 

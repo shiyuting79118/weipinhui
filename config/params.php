@@ -6,4 +6,6 @@ return [
         'defaultFace' => '/admin-style/images/head.png',
         'isDev' => true,//当前是否开发模式
     ],
+        'token_pre'=>'weipinhui',
+        'password_pre'=>'weipinhui'
 ];
